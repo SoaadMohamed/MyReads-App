@@ -13,7 +13,7 @@ $ git clone https://github.com/SoaadMohamed/MyReads-App.git
 ```
 - change directories 
 ```bash
-$ MyReads-App
+$ cd MyReads-App
 ```
 - And use NPM to install the dependencies.
 ```bash
